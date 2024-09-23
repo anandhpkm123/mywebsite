@@ -221,8 +221,7 @@ a:hover {
 
     background: url(../img/anandh.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
-	background-position:center;
+    background-size:100% 100%;
 }
 
 @media (max-width:1200px) {
